@@ -1,6 +1,6 @@
 -- NaviGo Database Schema
 -- Created for NaviGo Travel Planning Application
--- Version: 3.0
+-- Version: 0.0.5
 -- Updated: 2025-10-14
 
 -- Create database
@@ -898,5 +898,6 @@ CREATE INDEX idx_expense_tracking_itinerary ON expense_tracking(itinerary_id, ex
 -- =============================================
 -- END OF ENHANCED DATABASE SCHEMA
 -- =============================================
+
 
 
